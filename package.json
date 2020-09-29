@@ -1,0 +1,24 @@
+{
+  "name": "JS-JobScraping",
+  "version": "1.0.0",
+  "description": "An application for scraping job site information using Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrishargan/JS-JobScraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrishargan/JS-JobScraping/issues"
+  },
+  "homepage": "https://github.com/chrishargan/JS-JobScraping#readme",
+  "dependencies": {
+    "google-spreadsheet": "^3.0.13",
+    "node-fetch": "^2.6.1"
+  }
+}
