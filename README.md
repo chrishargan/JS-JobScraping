@@ -1,2 +1,2 @@
 # JS-JobScraping
-An application for scraping job site information using Javascript
+An application for scraping job searches from GitHub jobs api information using Javascript.
